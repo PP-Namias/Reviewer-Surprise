@@ -4,6 +4,10 @@
  * @version 1.11.1
  * @url https://github.com/feimosi/baguetteBox.js */
 
+ section {
+  height: 80vh;
+ }
+
 #baguetteBox-overlay {
   display: none;
   opacity: 0;
